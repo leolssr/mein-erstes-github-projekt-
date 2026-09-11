@@ -4,7 +4,7 @@ Hallo! Ich lerne gerade GitHub.
  
 ## Über mich 
  
-Name: fiktiver Name  
+Name: Lepo
 Klasse:  
  
 ## Das möchte ich lernen 
